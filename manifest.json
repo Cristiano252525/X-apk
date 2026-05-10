@@ -1,0 +1,18 @@
+{
+  "name": "X-APK EDITOR ULTRA PRO",
+  "short_name": "X-APK",
+  "description": "Editor de fotos avançado estilo Mandrake",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07070f",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/685/685655.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
