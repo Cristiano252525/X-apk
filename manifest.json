@@ -1,6 +1,7 @@
 {
   "name": "X-APK ULTRA PRO",
   "short_name": "X-APK",
+  "description": "Editor de fotos avançado estilo Mandrake para Android.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#07070f",
@@ -8,15 +9,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://img.icons8.com/fluent/512/cameraman.png",
-      "sizes": "512x512",
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://img.icons8.com/fluent/192/cameraman.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
